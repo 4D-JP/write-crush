@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:LYPO_WRITE:HOST.4dbase:HOST[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:LYPO_WRITE:HOST.4dbase:HOST[0000].4BL
+Scheduled : 15/09/16 16:52:23
+Starting : 15/09/16 16:52:23
+Ending : 15/09/16 16:52:24
+
